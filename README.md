@@ -37,10 +37,11 @@ Also, `git@auzzie.space` is an inbox-only email, attempts to contact this email 
 
 Thanks to Codeberg's amazing mirror system my code is offically mirrored on the following platforms;
 
-- [Tangled.org/auzzie.space](https://tangled.org/auzzie.space)
+- [Codeberg.org/OtakuEmily](https://codeberg.org/OtakuEmily/) *(primary)*
+- [Git.gay/OtakuEmily](https://git.gay/OtakuEmily) *(secondary)*
+- [Tangled.org/auzzie.space](https://tangled.org/auzzie.space) *(tertiary)*
 - [GitHub.com/OtakuEmily](https://github.com/OtakuEmily)
 - [GitLab.com/OtakuEmily](https://gitlab.com/OtakuEmily)
-- [Git.gay/OtakuEmily](https://git.gay/OtakuEmily) *(cool as fuck name!)*
 
 
 
