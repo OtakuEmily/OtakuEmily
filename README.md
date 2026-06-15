@@ -45,12 +45,12 @@ My interest in archival and preservation started after watching my now favourite
 
 Please only contact me on the platforms listed below, attempts to contact me on methods not listed are unreliable and will likely result in me not receiving your attempt!
 
-Also, `git@auzzie.space` is an inbox-only email, attempts to contact this email will be unsuccessful unless you provide alternative contact methods in your email.
+Also, `emily@kemonomimi.moe` is an inbox-only email, attempts to contact this email will be unsuccessful unless you provide alternative contact methods in your email.
 
 - <img src="https://cdn.simpleicons.org/revoltdotchat" width="16" valign="middle"> <a href="https://stoat.chat">Stoat.chat</a>; <code>OtakuEmily#6373</code>
 - <img src="https://cdn.simpleicons.org/matrix" width="16" valign="middle"> <a href="https://matrix.to/#/@otakuemily:matrix.org">Matrix</a>
 - <img src="https://cdn.simpleicons.org/bluesky" width="16" valign="middle"> <a href="https://bsky.app/profile/did:plc:lbqr5qcbc6jqcxlluekls6gf">Bluesky</a>
-- <img src="https://cdn.simpleicons.org/mastodon" width="16" valign="middle"> <a href="https://fosstodon.org/@OtakuEmily">Mastodon</a>
+- <img src="https://cdn.simpleicons.org/mastodon" width="16" valign="middle"> <a href="https://fedi.kemonomimi.moe/@OtakuEmily">Mastodon</a>
 
 <h2>୨୧ Academic record ୨୧</h2>
 
@@ -63,11 +63,12 @@ Things I'm either studying or have studied in the past for academic purposes!
 
 Thanks to Forgejo's amazing mirror system my code is officially mirrored on the following platforms;
 
-- <img src="https://cdn.simpleicons.org/codeberg" width="16" valign="middle"> <a href="https://codeberg.org/OtakuEmily/">Codeberg.org/OtakuEmily</a> <i>(primary)</i>
-- <img src="https://cdn.simpleicons.org/forgejo" width="16" valign="middle"> <a href="https://git.gay/OtakuEmily">Git.gay/OtakuEmily</a> <i>(secondary)</i>
-- <img src="https://cdn.simpleicons.org/git" width="16" valign="middle"> <a href="https://tangled.org/did:plc:lbqr5qcbc6jqcxlluekls6gf">Tangled.org/emily.auzzie.space</a> <i>(tertiary)</i>
-- <img src="https://cdn.simpleicons.org/github" width="16" valign="middle"> <a href="https://github.com/OtakuEmily">GitHub.com/OtakuEmily</a> <i>(quaternary)</i>
-- <img src="https://cdn.simpleicons.org/gitlab" width="16" valign="middle"> <a href="https://gitlab.com/OtakuEmily">GitLab.com/OtakuEmily</a> <i>(quinary)</i>
+- <img src="https://cdn.simpleicons.org/codeberg" width="16" valign="middle"> <a href="https://codeberg.org/OtakuEmily/">Codeberg.org/OtakuEmily</a>
+- <img src="https://cdn.simpleicons.org/forgejo" width="16" valign="middle"> <a href="https://forge.kemonomimi.moe/Emily">Kemonomimi.moe/Emily</a> <i>(my own forge instance!!!~)</i>
+- <img src="https://cdn.simpleicons.org/forgejo" width="16" valign="middle"> <a href="https://git.gay/OtakuEmily">Git.gay/OtakuEmily</a> 
+- <img src="https://cdn.simpleicons.org/git" width="16" valign="middle"> <a href="https://tangled.org/did:plc:lbqr5qcbc6jqcxlluekls6gf">Tangled.org/emily.auzzie.space</a>
+- <img src="https://cdn.simpleicons.org/github" width="16" valign="middle"> <a href="https://github.com/OtakuEmily">GitHub.com/OtakuEmily</a> 
+- <img src="https://cdn.simpleicons.org/gitlab" width="16" valign="middle"> <a href="https://gitlab.com/OtakuEmily">GitLab.com/OtakuEmily</a> 
 
 ## ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦
 
