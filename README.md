@@ -34,7 +34,7 @@ Hiya traveller, the name is Emily *(aka OtakuEmily)*, I'm a high-school software
 
 Outside of software engineering and game development, I work as a semi-professional photographer and as an amateur archivist.
 
-My interest in archival and preservation started after watching my now favourite piece of media called `Girls' Last Tour`, the show's themes of contusing on and persistence inspired me to preserve culture I enjoy, currently I'm on the quest to preserve `Girls' Last Class` in the highest quality after it was sadly removed from its publication on YouTube.
+My interest in archival and preservation started after watching my now favourite piece of media called `Girls' Last Tour`, the show's themes of persistence inspired me to preserve culture I enjoy, currently I'm on the quest to preserve `Girls' Last Class` in the highest quality after it was sadly removed from its publication on YouTube.
 
 ## ୨୧ Projects ୨୧
 
