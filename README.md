@@ -33,6 +33,16 @@ Also, `git@auzzie.space` is an inbox-only email, attempts to contact this email 
 - [Bluesky](https://bsky.app); [@auzzie.space](https://bsky.app/profile/did:plc:lbqr5qcbc6jqcxlluekls6gf)
 - [Mastodon](https://mastodon.social); [@OtakuEmily@fosstodon.org](https://fosstodon.org/@OtakuEmily)
 
+<h2>୨୧ Mirrors ୨୧</h2>
+
+Thanks to Codeberg's amazing mirror system my code is offically mirrored on the following platforms;
+
+- [Tangled.org/auzzie.space](https://tangled.org/auzzie.space)
+- [GitHub.com/OtakuEmily](https://github.com/OtakuEmily)
+- [GitLab.com/OtakuEmily](https://gitlab.com/OtakuEmily)
+- [Git.gay/OtakuEmily](https://git.gay/OtakuEmily) *(cool as fuck name!)*
+
+
 
 <h2>୨୧ Academic record ୨୧</h2>
 
