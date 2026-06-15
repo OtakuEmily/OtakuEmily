@@ -25,10 +25,10 @@
     ⠀⠀⠀⣼⠰⠀⠀⠀⠠⢀⠀⣿⣿⣿⣯⣯⠉⣿⣿⣿⣿⡿⡉⣇⠌⡗⢛⢣⣽⣿⣿⣿⣿⣹⠀⠀⠀⠀⠀⠀⠀
 <a></pre>
 
- ₊˚⊹ Emily ⊹˚₊
+<h1 align="center">₊˚⊹ Emily ⊹˚₊</h1>
 
 
-˗ˏˋ ★ About me ★ ˎˊ˗
+## ୨୧ About me ୨୧
 
 Hiya traveller, the name is Emily *(aka OtakuEmily)*, I'm a high-school software engineer who's currently studying game development at the [Academy of Interactive Entertainment](https:///aie.edu.au/).
 
@@ -36,12 +36,12 @@ Outside of software engineering and game development, I work as a semi-professio
 
 My interest in archival and preservation started after watching my now favourite piece of media called `Girls' Last Tour`, the show's themes of contusing on and persistence inspired me to preserve culture I enjoy, currently I'm on the quest to preserve `Girls' Last Class` in the highest quality after it was sadly removed from its publication on YouTube.
 
-୨୧ Projects ୨୧
+## ୨୧ Projects ୨୧
 
 - [Mirurain](https://codeberg.org/OtakuEmily/mirurain); [Stoat.chat](https://github.com/stoatchat) aggregator for federated social media! *(Check it out!)*
 - [Cloudstile](https://codeberg.org/OtakuEmily/cloudstile); Tiny unofficial SDK for working with [Cloudflare Turnstile](https://www.cloudflare.com/products/turnstile/).
 
-<h2>୨୧ Contact ୨୧</h2>
+## ୨୧ Contact ୨୧
 
 Please only contact me on the platforms listed below, attempts to contact me on methods not listed are unreliable and will likely result in me not receiving your attempt!
 
@@ -59,7 +59,7 @@ Things I'm either studying or have studied in the past for academic purposes!
 - [Game development and Programming *(ICT30120)*](https://training.gov.au/Training/Details/ICT30120/qualdetails) ~ 2026
 - [South Australian Certificate of Education *(SACE)*](https://en.wikipedia.org/wiki/South_Australian_Certificate_of_Education) ~ 2027
 
-<h2>୨୧ Mirrors ୨୧</h2>
+## ୨୧ Mirrors ୨୧
 
 Thanks to Forgejo's amazing mirror system my code is officially mirrored on the following platforms;
 
@@ -69,7 +69,7 @@ Thanks to Forgejo's amazing mirror system my code is officially mirrored on the 
 - <img src="https://cdn.simpleicons.org/github" width="16" valign="middle"> <a href="https://github.com/OtakuEmily">GitHub.com/OtakuEmily</a> <i>(quaternary)</i>
 - <img src="https://cdn.simpleicons.org/gitlab" width="16" valign="middle"> <a href="https://gitlab.com/OtakuEmily">GitLab.com/OtakuEmily</a> <i>(quinary)</i>
 
-<h2>꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦</h2>
+## ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦
 
 [![Overall Statistics](https://lastly.nisarga.me/api/recent?username=EmilyTheOtaku&period=overall)](https://www.last.fm/user/EmilyTheOtaku)
 ![Booru Counter](https://count.getloli.com/@OtakuEmily-Codeberg?theme=original-new)
