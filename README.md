@@ -1,2 +1,1 @@
-# .profile
-
+[![Overall Statistics](https://lastly.nisarga.me/api/recent?username=EmilyTheOtaku&period=overall)](https://www.last.fm/user/EmilyTheOtaku)
