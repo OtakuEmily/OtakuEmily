@@ -65,7 +65,7 @@ Thanks to Forgejo's amazing mirror system my code is officially mirrored on the 
 
 - <img src="https://cdn.simpleicons.org/codeberg" width="16" valign="middle"> <a href="https://codeberg.org/OtakuEmily/">Codeberg.org/OtakuEmily</a> <i>(primary)</i>
 - <img src="https://cdn.simpleicons.org/forgejo" width="16" valign="middle"> <a href="https://git.gay/OtakuEmily">Git.gay/OtakuEmily</a> <i>(secondary)</i>
-- <img src="https://cdn.simpleicons.org/gitea" width="16" valign="middle"> <a href="https://tangled.org/auzzie.space">Tangled.org/auzzie.space</a> <i>(tertiary)</i>
+- <img src="https://cdn.simpleicons.org/git" width="16" valign="middle"> <a href="https://tangled.org/auzzie.space">Tangled.org/auzzie.space</a> <i>(tertiary)</i>
 - <img src="https://cdn.simpleicons.org/github" width="16" valign="middle"> <a href="https://github.com/OtakuEmily">GitHub.com/OtakuEmily</a> <i>(quaternary)</i>
 - <img src="https://cdn.simpleicons.org/gitlab" width="16" valign="middle"> <a href="https://gitlab.com/OtakuEmily">GitLab.com/OtakuEmily</a> <i>(quinary)</i>
 
