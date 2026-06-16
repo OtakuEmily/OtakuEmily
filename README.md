@@ -90,7 +90,7 @@ Random cool buttons I've stolen *(excluding my cute little yuri one)*!!!~ <3
 <a href="https://emily.kemonomimi.moe"><img src="https://raw.githubusercontent.com/OtakuEmily/OtakuEmily/refs/heads/main/buttons/button.png" width="88" valign="middle"></a>
 <a href="https://www.transhub.org.au/legal/rights-justice/"><img src="https://raw.githubusercontent.com/OtakuEmily/OtakuEmily/refs/heads/main/buttons/transrightsnow.webp" width="88" valign="middle"></a>
 <a href="https://blog.archive.org/2015/02/11/locking-the-web-open-a-call-for-a-distributed-web/"><img src="https://raw.githubusercontent.com/OtakuEmily/OtakuEmily/refs/heads/main/buttons/transrightsnow.webp" width="88" valign="middle"></a>
-<a href="https://www.mabsland.com/Adoption.html"><img src="https://raw.githubusercontent.com/OtakuEmily/OtakuEmily/refs/heads/main/buttons/archive.png" width="88" valign="middle"></a>
+<a href="https://blog.archive.org/2015/02/11/locking-the-web-open-a-call-for-a-distributed-web/"><img src="https://raw.githubusercontent.com/OtakuEmily/OtakuEmily/refs/heads/main/buttons/archive.png" width="88" valign="middle"></a>
 </span>
 
 ## ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦
