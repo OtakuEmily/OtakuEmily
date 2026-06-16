@@ -47,7 +47,7 @@ Please only contact me on the platforms listed below, attempts to contact me via
 
 Also, `emily@kemonomimi.moe` is an inbox-only email, attempts to contact this email will be unsuccessful unless you provide alternative contact methods in your email.
 
-- <img src="https://a.favicon.im/stoat.chat" width="16" valign="middle"> <a href="https://stoat.chat">Stoat.chat</a>; <code>OtakuEmily#6373</code>
+- <img src="https://icons.duckduckgo.com/ip3/stoat.chat" width="16" valign="middle"> <a href="https://stoat.chat">Stoat.chat</a>; <code>OtakuEmily#6373</code>
 - <img src="https://cdn.simpleicons.org/matrix" width="16" valign="middle"> <a href="https://matrix.to/#/@emily:kemonomimi.moe">Matrix</a>
 - <img src="https://cdn.simpleicons.org/bluesky" width="16" valign="middle"> <a href="https://bsky.app/profile/did:plc:lbqr5qcbc6jqcxlluekls6gf">Bluesky</a>
 - <img src="https://cdn.simpleicons.org/mastodon" width="16" valign="middle"> <a href="https://fedi.kemonomimi.moe/@OtakuEmily">Mastodon (Kemonodon)</a>
@@ -65,9 +65,9 @@ Things I'm either studying or have studied in the past for academic purposes!
 Thanks to Forgejo's amazing mirror system my code is officially mirrored on the following platforms (ordered from recommended to least recommended);
 
 - <img src="https://cdn.simpleicons.org/codeberg" width="16" valign="middle"> <a href="https://codeberg.org/OtakuEmily/">Codeberg.org/OtakuEmily</a>
-- <img src="https://a.favicon.im/git.gay" width="16" valign="middle"> <a href="https://git.gay/OtakuEmily">Git.gay/OtakuEmily</a> 
-- <img src="https://a.favicon.im/forge.kemonomimi.moe" width="16" valign="middle"> <a href="https://forge.kemonomimi.moe/Emily">Kemonomimi.moe/Emily</a> <i>(my own forge instance!!!~)</i>
-- <img src="https://a.favicon.im/tangled.org" width="16" valign="middle"> <a href="https://tangled.org/did:plc:lbqr5qcbc6jqcxlluekls6gf">Tangled.org/emily.kemonomimi.moe</a>
+- <img src="https://icons.duckduckgo.com/ip3/git.gay" width="16" valign="middle"> <a href="https://git.gay/OtakuEmily">Git.gay/OtakuEmily</a> 
+- <img src="https://icons.duckduckgo.com/ip3/forge.kemonomimi.moe" width="16" valign="middle"> <a href="https://forge.kemonomimi.moe/Emily">Kemonomimi.moe/Emily</a> <i>(my own forge instance!!!~)</i>
+- <img src="https://icons.duckduckgo.com/ip3/tangled.org" width="16" valign="middle"> <a href="https://tangled.org/did:plc:lbqr5qcbc6jqcxlluekls6gf">Tangled.org/emily.kemonomimi.moe</a>
 - <img src="https://cdn.simpleicons.org/github" width="16" valign="middle"> <a href="https://github.com/OtakuEmily">GitHub.com/OtakuEmily</a> 
 - <img src="https://cdn.simpleicons.org/gitlab" width="16" valign="middle"> <a href="https://gitlab.com/OtakuEmily">GitLab.com/OtakuEmily</a> 
 - <img src="https://cdn.simpleicons.org/bitbucket" width="16" valign="middle"> <a href="https://bitbucket.org/otakuemily/">Bitbucket.org/OtakuEmily</a> <i>(actually shit, how does anyone use this?!?)</i>
