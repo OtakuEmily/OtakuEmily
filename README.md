@@ -89,7 +89,7 @@ Random cool buttons I've stolen *(excluding my cute little yuri one)*!!!~ <3
 <span>
 <a href="https://emily.kemonomimi.moe"><img src="https://raw.githubusercontent.com/OtakuEmily/OtakuEmily/refs/heads/main/button.png" width="88" valign="middle"></a>
 <a href="https://www.transhub.org.au/legal/rights-justice/"><img src="https://raw.githubusercontent.com/OtakuEmily/OtakuEmily/refs/heads/main/transrightsnow.webp" width="88" valign="middle"></a>
-
+<a href="https://www.mabsland.com/Adoption.html"><img src="https://www.mabsland.com/Pandas/Censor_14c.gif" width="88" valign="middle"></a>
 </span>
 
 ## ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦
