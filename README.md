@@ -80,16 +80,17 @@ Due to my studies and disability, I'm unable to work a normal job currently, if 
 
 *Donations are considered gifts, gifting me money or crypto does NOT mean I'll prioritise an issue or continue to support a platform, they are purely intended to help me scrape by in these demanding times! Donate/gift at your own risk.*
 
-- <img src="https://cdn.simpleicons.org/monero" width="16" valign="middle"> <code>85C2jERwZaBEygKvLfFce27KkrDrb4RhFhGvWbSYrAGJJwKhhcDdXzL7LURNs6vM54SS6gpwEmdQe961mH5Fb4r1BQXUi8b</code>
+- <img src="https://cdn.simpleicons.org/monero" width="16" valign="middle"> <a href="https://www.getmonero.org">Monero (XMR)</a> <code>85C2jERwZaBEygKvLfFce27KkrDrb4RhFhGvWbSYrAGJJwKhhcDdXzL7LURNs6vM54SS6gpwEmdQe961mH5Fb4r1BQXUi8b</code>
 
 <h2> ୨୧ Buttons ୨୧ </h2>
   
 Random cool buttons I've stolen *(excluding my cute little yuri one)*!!!~ <3
 
 <span>
-<a href="https://emily.kemonomimi.moe"><img src="https://raw.githubusercontent.com/OtakuEmily/OtakuEmily/refs/heads/main/button.png" width="88" valign="middle"></a>
-<a href="https://www.transhub.org.au/legal/rights-justice/"><img src="https://raw.githubusercontent.com/OtakuEmily/OtakuEmily/refs/heads/main/transrightsnow.webp" width="88" valign="middle"></a>
-<a href="https://www.mabsland.com/Adoption.html"><img src="https://www.mabsland.com/Pandas/Censor_14c.gif" width="88" valign="middle"></a>
+<a href="https://emily.kemonomimi.moe"><img src="https://raw.githubusercontent.com/OtakuEmily/OtakuEmily/refs/heads/main/buttons/button.png" width="88" valign="middle"></a>
+<a href="https://www.transhub.org.au/legal/rights-justice/"><img src="https://raw.githubusercontent.com/OtakuEmily/OtakuEmily/refs/heads/main/buttons/transrightsnow.webp" width="88" valign="middle"></a>
+<a href="https://blog.archive.org/2015/02/11/locking-the-web-open-a-call-for-a-distributed-web/"><img src="https://raw.githubusercontent.com/OtakuEmily/OtakuEmily/refs/heads/main/buttons/transrightsnow.webp" width="88" valign="middle"></a>
+<a href="https://www.mabsland.com/Adoption.html"><img src="https://raw.githubusercontent.com/OtakuEmily/OtakuEmily/refs/heads/main/buttons/archive.png" width="88" valign="middle"></a>
 </span>
 
 ## ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦
