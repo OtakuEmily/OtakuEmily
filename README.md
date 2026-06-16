@@ -50,8 +50,8 @@ Also, `emily@kemonomimi.moe` is an inbox-only email, attempts to contact this em
 - <img src="https://icons.duckduckgo.com/ip3/stoat.chat.ico" width="16" valign="middle"> <a href="https://stoat.chat">Stoat.chat</a>; <code>OtakuEmily#6373</code>
 - <img src="https://cdn.simpleicons.org/matrix" width="16" valign="middle"> <a href="https://matrix.to/#/@emily:kemonomimi.moe">Matrix</a>
 - <img src="https://cdn.simpleicons.org/bluesky" width="16" valign="middle"> <a href="https://bsky.app/profile/did:plc:lbqr5qcbc6jqcxlluekls6gf">Bluesky</a>
-- <img src="https://cdn.simpleicons.org/mastodon" width="16" valign="middle"> <a href="https://fedi.kemonomimi.moe/@OtakuEmily">Mastodon (Kemonodon)</a>
-- <img src="https://cdn.simpleicons.org/mastodon" width="16" valign="middle"> <a href="https://fosstodon.org/@OtakuEmily">Mastodon (Fosstodon)</a>
+- <img src="https://icons.duckduckgo.com/ip3/social.kemonomimi.moe.ico" width="16" valign="middle"> <a href="https://social.kemonomimi.moe/@OtakuEmily">Mastodon (Kemonosocial)</a>
+- <img src="https://icons.duckduckgo.com/ip3/fosstodon.org.ico" width="16" valign="middle"> <a href="https://fosstodon.org/@OtakuEmily">Mastodon (Fosstodon)</a>
 
 <h2>୨୧ Academic record ୨୧</h2>
 
