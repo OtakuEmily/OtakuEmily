@@ -87,11 +87,11 @@ Due to my studies and disability, I'm unable to work a normal job currently, if 
 Random cool buttons I've stolen *(excluding my cute little yuri one)*!!!~ <3
 
 <span>
-<a href="https://emily.kemonomimi.moe"><img src="https://raw.githubusercontent.com/OtakuEmily/OtakuEmily/refs/heads/main/buttons/button.png" alt="OtakuEmily Yuri button >~<" width="88" valign="middle"></a>
-<a href="https://www.transhub.org.au/legal/rights-justice/"><img src="https://raw.githubusercontent.com/OtakuEmily/OtakuEmily/refs/heads/main/buttons/transrightsnow.webp" alt="Transgender rights!!!" width="88" valign="middle"></a>
-<a href="https://www.mabsland.com/Adoption.html"><img src="https://raw.githubusercontent.com/OtakuEmily/OtakuEmily/refs/heads/main/buttons/14_censor.gif" alt="Censorship Panda button!" width="88" valign="middle"></a>
-<a href="https://blog.archive.org/2015/02/11/locking-the-web-open-a-call-for-a-distributed-web/"><img src="https://raw.githubusercontent.com/OtakuEmily/OtakuEmily/refs/heads/main/buttons/archive.png" alt="Internet Archive button" width="88" valign="middle"></a>
-<a href="https://kasanete.to"><img src="https://raw.githubusercontent.com/OtakuEmily/OtakuEmily/refs/heads/main/buttons/teto.gif" alt="Internet Archive button" width="88" valign="middle"></a>
+<a href="https://emily.kemonomimi.moe"><img src="https://raw.githubusercontent.com/OtakuEmily/OtakuEmily/refs/heads/main/buttons/button.png" alt="OtakuEmily Yuri button >~<" height="31" width="88" valign="middle"></a>
+<a href="https://www.transhub.org.au/legal/rights-justice/"><img src="https://raw.githubusercontent.com/OtakuEmily/OtakuEmily/refs/heads/main/buttons/transrightsnow.webp" alt="Transgender rights!!!" height="31" width="88" valign="middle"></a>
+<a href="https://www.mabsland.com/Adoption.html"><img src="https://raw.githubusercontent.com/OtakuEmily/OtakuEmily/refs/heads/main/buttons/14_censor.gif" alt="Censorship Panda button!" height="31" width="88" valign="middle"></a>
+<a href="https://blog.archive.org/2015/02/11/locking-the-web-open-a-call-for-a-distributed-web/"><img src="https://raw.githubusercontent.com/OtakuEmily/OtakuEmily/refs/heads/main/buttons/archive.png" alt="Internet Archive button" width="88" height="31" valign="middle"></a>
+<a href="https://kasanete.to"><img src="https://raw.githubusercontent.com/OtakuEmily/OtakuEmily/refs/heads/main/buttons/teto.gif" alt="Internet Archive button" height="31" width="88" hig valign="middle"></a>
 </span>
 
 ## ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦
