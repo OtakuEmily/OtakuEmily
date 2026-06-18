@@ -45,10 +45,11 @@ My interest in archiving and preservation started after watching my favourite pi
 
 Please only contact me on the platforms listed below, attempts to contact me via methods not listed are unreliable and will likely result in me not receiving your attempt!
 
-Also, `emily@kemonomimi.moe` is an inbox-only email, attempts to contact this email will be unsuccessful unless you provide alternative contact methods in your email.
+Also, `emily [at] kemonomimi.moe` is an inbox-only email, attempts to contact this email will be unsuccessful unless you provide alternative contact methods in your email.
 
 - <img src="https://icons.duckduckgo.com/ip3/stoat.chat.ico" width="16" valign="middle"> <a href="https://stoat.chat">Stoat.chat</a>; <code>OtakuEmily#6373</code>
 - <img src="https://cdn.simpleicons.org/matrix" width="16" valign="middle"> <a href="https://matrix.to/#/@emily:kemonomimi.moe">Matrix</a>
+- <img src="https://icons.duckduckgo.com/ip3/www.rootapp.com.ico" width="16" valign="middle"> <a href="https://www.rootapp.com/">Root</a>; <code>OtakuEmily</code>
 - <img src="https://cdn.simpleicons.org/bluesky" width="16" valign="middle"> <a href="https://bsky.app/profile/did:plc:lbqr5qcbc6jqcxlluekls6gf">Bluesky</a>
 - <img src="https://icons.duckduckgo.com/ip3/social.kemonomimi.moe.ico" width="16" valign="middle"> <a href="https://social.kemonomimi.moe/@OtakuEmily">Mastodon (Kemonosocial)</a>
 - <img src="https://icons.duckduckgo.com/ip3/fosstodon.org.ico" width="16" valign="middle"> <a href="https://fosstodon.org/@OtakuEmily">Mastodon (Fosstodon)</a>
