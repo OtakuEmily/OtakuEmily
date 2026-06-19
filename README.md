@@ -97,5 +97,6 @@ Random cool buttons I've stolen *(excluding my cute little yuri one)*!!!~ <3
 
 ## ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦
 
-[![Overall Statistics](https://lastly.nisarga.me/api/recent?username=EmilyTheOtaku&period=overall)](https://www.last.fm/user/EmilyTheOtaku)
-![Booru Counter](https://count.getloli.com/@OtakuEmily-Codeberg?theme=original-new)
+<img alt="Anime Tracking" src="https://anime.nexus/user/019ee066-ec5b-7229-8271-d8ea048e077e/statistics.png" height="256">
+<img alt="Last.fm Tracking" src="https://lastly.nisarga.me/api/recent?username=EmilyTheOtaku&period=overall" height="256">
+<img alt="Visitor Tracking" src="https://count.getloli.com/@otakuemily-global?name=otakuemily-global&theme=kyun&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto" height="100">
