@@ -27,7 +27,6 @@
 
 <h1 align="center">₊˚⊹ Emily ⊹˚₊</h1>
 
-
 ## ୨୧ About me ୨୧
 
 Hiya traveller, the name is Emily *(aka OtakuEmily)*, I'm a secondary school software engineer who's currently studying game development at the [Academy of Interactive Entertainment](https:///aie.edu.au/).
