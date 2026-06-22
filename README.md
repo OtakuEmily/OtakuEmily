@@ -82,7 +82,8 @@ Due to my studies and disability, I'm unable to work a normal job currently, if 
 *Donations are considered gifts, gifting me money or crypto does NOT mean I'll prioritise an issue or continue to support a platform, they are purely intended to help me scrape by in these demanding times! Donate/gift at your own risk.*
 
 - <img src="https://cdn.simpleicons.org/monero" width="16" valign="middle"> <a href="https://www.getmonero.org">Monero (XMR)</a> <code>85C2jERwZaBEygKvLfFce27KkrDrb4RhFhGvWbSYrAGJJwKhhcDdXzL7LURNs6vM54SS6gpwEmdQe961mH5Fb4r1BQXUi8b</code>
-
+- <img src="https://cdn.simpleicons.org/bitcoin" width="16" valign="middle"> <a href="https://bitcoin.org">Bitcoin (BTC)</a> <code>bc1q7sa6zgqhkafhc5ccw5whxmfh38rhu994n8f7rc6lalspytz7zgqst3745y</code>
+- 
 <h2> ୨୧ Buttons ୨୧ </h2>
   
 Random cool buttons I've stolen *(excluding my cute little yuri one)*!!!~ <3
