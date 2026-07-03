@@ -27,6 +27,7 @@
 
 <h1 align="center">₊˚⊹ Emily ⊹˚₊</h1>
 
+
 ## ୨୧ About me ୨୧
 
 Hiya traveller, the name is Emily *(aka OtakuEmily)*, I'm a secondary school software engineer who's currently studying game development at the [Academy of Interactive Entertainment](https:///aie.edu.au/).
@@ -37,8 +38,8 @@ My interest in archiving and preservation started after watching my favourite pi
 
 ## ୨୧ Projects ୨୧
 
-- [Mirurain](https://codeberg.org/OtakuEmily/mirurain); [Stoat.chat](https://github.com/stoatchat) aggregator for federated social media! *(Check it out!)*
-- [Cloudstile](https://codeberg.org/OtakuEmily/cloudstile); Tiny unofficial SDK for working with [Cloudflare Turnstile](https://www.cloudflare.com/products/turnstile/).
+- [Mirurain](https://forge.kemonomimi.moe/OtakuEmily/mirurain); [Stoat.chat](https://github.com/stoatchat) aggregator for federated social media! *(Check it out!)*
+- [Cloudstile](https://forge.kemonomimi.moe/OtakuEmily/cloudstile); Tiny unofficial SDK for working with [Cloudflare Turnstile](https://www.cloudflare.com/products/turnstile/).
 
 ## ୨୧ Contact ୨୧
 
@@ -46,12 +47,12 @@ Please only contact me on the platforms listed below, attempts to contact me via
 
 Also, `emily [at] kemonomimi.moe` is an inbox-only email, attempts to contact this email will be unsuccessful unless you provide alternative contact methods in your email.
 
-- <img src="https://icons.duckduckgo.com/ip3/stoat.chat.ico" width="16" valign="middle"> <a href="https://stoat.chat">Stoat.chat</a>; <code>OtakuEmily#6373</code>
+- <img src="https://www.google.com/s2/favicons?domain=stoat.chat.ico" width="16" valign="middle"> <a href="https://stoat.chat">Stoat.chat</a>; <code>OtakuEmily#6373</code>
 - <img src="https://cdn.simpleicons.org/matrix" width="16" valign="middle"> <a href="https://matrix.to/#/@emily:kemonomimi.moe">Matrix</a>
-- <img src="https://icons.duckduckgo.com/ip3/www.rootapp.com.ico" width="16" valign="middle"> <a href="https://www.rootapp.com/">Root</a>; <code>OtakuEmily</code>
+- <img src="https://www.google.com/s2/favicons?domain=www.rootapp.com.ico" width="16" valign="middle"> <a href="https://www.rootapp.com/">Root</a>; <code>OtakuEmily</code>
 - <img src="https://cdn.simpleicons.org/bluesky" width="16" valign="middle"> <a href="https://bsky.app/profile/did:plc:lbqr5qcbc6jqcxlluekls6gf">Bluesky</a>
-- <img src="https://icons.duckduckgo.com/ip3/social.kemonomimi.moe.ico" width="16" valign="middle"> <a href="https://social.kemonomimi.moe/@OtakuEmily">Mastodon (Kemonosocial)</a>
-- <img src="https://icons.duckduckgo.com/ip3/fosstodon.org.ico" width="16" valign="middle"> <a href="https://fosstodon.org/@OtakuEmily">Mastodon (Fosstodon)</a>
+- <img src="https://www.google.com/s2/favicons?domain=social.kemonomimi.moe.ico" width="16" valign="middle"> <a href="https://social.kemonomimi.moe/@OtakuEmily">Mastodon (Kemonosocial)</a>
+- <img src="https://www.google.com/s2/favicons?domain=fosstodon.org.ico" width="16" valign="middle"> <a href="https://fosstodon.org/@OtakuEmily">Mastodon (Fosstodon)</a>
 
 <h2>୨୧ Academic record ୨୧</h2>
 
@@ -65,12 +66,10 @@ Things I'm either studying or have studied in the past for academic purposes!
 Thanks to Forgejo's amazing mirror system my code is officially mirrored on the following platforms (ordered from recommended to least recommended);
 
 - <img src="https://cdn.simpleicons.org/codeberg" width="16" valign="middle"> <a href="https://codeberg.org/OtakuEmily/">Codeberg.org/OtakuEmily</a>
-- <img src="https://icons.duckduckgo.com/ip3/git.gay.ico" width="16" valign="middle"> <a href="https://git.gay/OtakuEmily">Git.gay/OtakuEmily</a> 
-- <img src="https://icons.duckduckgo.com/ip3/forge.kemonomimi.moe.ico" width="16" valign="middle"> <a href="https://forge.kemonomimi.moe/Emily">Kemonomimi.moe/Emily</a> <i>(my own forge instance!!!~)</i>
-- <img src="https://icons.duckduckgo.com/ip3/tangled.org.ico" width="16" valign="middle"> <a href="https://tangled.org/did:plc:lbqr5qcbc6jqcxlluekls6gf">Tangled.org/emily.kemonomimi.moe</a>
+- <img src="https://www.google.com/s2/favicons?domain=git.gay.ico" width="16" valign="middle"> <a href="https://git.gay/OtakuEmily">Git.gay/OtakuEmily</a> 
+- <img src="https://www.google.com/s2/favicons?domain=forge.kemonomimi.moe.ico" width="16" valign="middle"> <a href="https://forge.kemonomimi.moe/Emily">Kemonomimi.moe/Emily</a> <i>(my own forge instance!!!~)</i>
 - <img src="https://cdn.simpleicons.org/github" width="16" valign="middle"> <a href="https://github.com/OtakuEmily">GitHub.com/OtakuEmily</a> 
 - <img src="https://cdn.simpleicons.org/gitlab" width="16" valign="middle"> <a href="https://gitlab.com/OtakuEmily">GitLab.com/OtakuEmily</a> 
-- <img src="https://cdn.simpleicons.org/bitbucket" width="16" valign="middle"> <a href="https://bitbucket.org/otakuemily/">Bitbucket.org/OtakuEmily</a> <i>(actually shit, how does anyone use this?!?)</i>
 
 Any mirrors not listed here are unofficial and should be used with caution!
 
@@ -81,8 +80,8 @@ Due to my studies and disability, I'm unable to work a normal job currently, if 
 *Donations are considered gifts, gifting me money or crypto does NOT mean I'll prioritise an issue or continue to support a platform, they are purely intended to help me scrape by in these demanding times! Donate/gift at your own risk.*
 
 - <img src="https://cdn.simpleicons.org/monero" width="16" valign="middle"> <a href="https://www.getmonero.org">Monero (XMR)</a> <code>85C2jERwZaBEygKvLfFce27KkrDrb4RhFhGvWbSYrAGJJwKhhcDdXzL7LURNs6vM54SS6gpwEmdQe961mH5Fb4r1BQXUi8b</code>
-- <img src="https://cdn.simpleicons.org/bitcoin" width="16" valign="middle"> <a href="https://bitcoin.org">Bitcoin (BTC)</a> <code>bc1q7sa6zgqhkafhc5ccw5whxmfh38rhu994n8f7rc6lalspytz7zgqst3745y</code>
-- 
+- <img src="https://cdn.simpleicons.org/bitcoin" width="16" valign="middle"> <a href="https://www.getmonero.org">Bitcoin (BTC)</a> <code>bc1q7sa6zgqhkafhc5ccw5whxmfh38rhu994n8f7rc6lalspytz7zgqst3745y</code>
+
 <h2> ୨୧ Buttons ୨୧ </h2>
   
 Random cool buttons I've stolen *(excluding my cute little yuri one)*!!!~ <3
@@ -97,6 +96,5 @@ Random cool buttons I've stolen *(excluding my cute little yuri one)*!!!~ <3
 
 ## ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦
 
-<img alt="Anime Tracking" src="https://anime.nexus/user/019ee066-ec5b-7229-8271-d8ea048e077e/statistics.png" height="256">
-<img alt="Last.fm Tracking" src="https://lastly.nisarga.me/api/recent?username=EmilyTheOtaku&period=overall" height="256">
-<img alt="Visitor Tracking" src="https://count.getloli.com/@otakuemily-global?name=otakuemily-global&theme=kyun&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto" height="100">
+[![Overall Statistics](https://lastly.nisarga.me/api/recent?username=EmilyTheOtaku&period=overall)](https://www.last.fm/user/EmilyTheOtaku)
+![Booru Counter](https://count.getloli.com/@OtakuEmily-Codeberg?theme=original-new)
