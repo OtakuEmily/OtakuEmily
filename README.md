@@ -41,7 +41,6 @@ All my projects live on [Kemonoforge](https://forge.kemonomimi.moe), but it's re
 - <img src="https://cdn.simpleicons.org/codeberg" width="16" valign="middle"> <a href="https://codeberg.org/OtakuEmily/">Codeberg.org/OtakuEmily</a> (such a lovely community)
 - <img src="https://www.google.com/s2/favicons?domain=git.gay.ico" width="16" valign="middle"> <a href="https://git.gay/OtakuEmily">Git.gay/OtakuEmily</a> (please don't spam them, their forge is such a lovely community service)
 - <img src="https://cdn.simpleicons.org/github" width="16" valign="middle"> <a href="https://github.com/OtakuEmily">GitHub.com/OtakuEmily</a> 
-- <img src="https://cdn.simpleicons.org/gitlab" width="16" valign="middle"> <a href="https://gitlab.com/OtakuEmily">GitLab.com/OtakuEmily</a> 
 
 Any mirrors not listed here are unofficial and should be used with caution!
 
